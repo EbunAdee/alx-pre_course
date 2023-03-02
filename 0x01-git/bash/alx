@@ -1,2 +1,5 @@
 #!/bin/bash
-ALX school is so cool!
+<<<<<<< HEAD
+ALX school is amazing!
+ALX School is great!
+>>>>>>> update_script
